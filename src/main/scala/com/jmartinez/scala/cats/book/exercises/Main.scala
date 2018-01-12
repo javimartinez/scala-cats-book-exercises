@@ -1,4 +1,4 @@
-package com.scala.cats.book.exercises
+package com.jmartinez.scala.cats.book.exercises
 
 import cats.instances.string._
 import cats.syntax.semigroup._
